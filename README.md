@@ -9,9 +9,9 @@
 | Field | Detail |
 |---|---|
 | **Nama Mahasiswa** | Aflin Awaludin |
-| **NIM / Kelas** | *(Isi NIM / Kelas Anda)* |
+| **NIM / Kelas** | *(24360007)* |
 | **Dosen Pembimbing** | Dikky Suryadi, S.Kom., M.Kom. |
-| **Institusi** | *(Isi Nama Kampus/Universitas Anda)* |
+| **Institusi** | *(Institut Sains Dan Teknologi Nasional)* |
 | **Status Proyek** | ✅ Selesai & Lolos Uji (100% Tested) |
 | **Terakhir Diperbarui** | 18 Mei 2026 |
 
